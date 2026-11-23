@@ -1,0 +1,29 @@
+{
+  "exportedAt": "2026-11-23T05:22:21.413Z",
+  "today": "2026-11-22",
+  "startDate": "2026-11-01",
+  "recentDays": 7,
+  "account": {
+    "id": "413-074-5478",
+    "name": "",
+    "currency": "CAD",
+    "timeZone": "America/Edmonton"
+  },
+  "customerStatus": "ENABLED",
+  "campaigns": [
+    {
+      "id": "24454025938",
+      "name": "Villa Avocado Lembang - Search",
+      "status": "ENABLED",
+      "primaryStatus": "LIMITED",
+      "primaryStatusReasons": [
+        "BIDDING_STRATEGY_LEARNING",
+        "UNKNOWN"
+      ],
+      "channel": "SEARCH",
+      "bidding": "TARGET_SPEND",
+      "dailyBudget": 15
+    }
+  ],
+  "errors": []
+}
