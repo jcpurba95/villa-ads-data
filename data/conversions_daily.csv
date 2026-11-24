@@ -44,8 +44,12 @@ date,campaign,conversion_action,category,conversions,all_conversions
 2026-11-20,Villa Avocado Lembang - Search,Local actions - Directions,GET_DIRECTIONS,0,144
 2026-11-20,Villa Avocado Lembang - Search,Clicks to call,CONTACT,0,3
 2026-11-20,Villa Avocado Lembang - Search,Local actions - Other engagements,ENGAGEMENT,0,403
-2026-11-21,Villa Avocado Lembang - Search,Local actions - Website visits,PAGE_VIEW,0,1
-2026-11-21,Villa Avocado Lembang - Search,Local actions - Directions,GET_DIRECTIONS,0,95
-2026-11-21,Villa Avocado Lembang - Search,Clicks to call,CONTACT,0,7
-2026-11-21,Villa Avocado Lembang - Search,Local actions - Other engagements,ENGAGEMENT,0,42
-2026-11-22,Villa Avocado Lembang - Search,Local actions - Directions,GET_DIRECTIONS,0,20
+2026-11-21,Villa Avocado Lembang - Search,Local actions - Website visits,PAGE_VIEW,0,11
+2026-11-21,Villa Avocado Lembang - Search,Local actions - Directions,GET_DIRECTIONS,0,127
+2026-11-21,Villa Avocado Lembang - Search,Clicks to call,CONTACT,0,9
+2026-11-21,Villa Avocado Lembang - Search,Local actions - Other engagements,ENGAGEMENT,0,336
+2026-11-22,Villa Avocado Lembang - Search,Local actions - Website visits,PAGE_VIEW,0,2
+2026-11-22,Villa Avocado Lembang - Search,Local actions - Directions,GET_DIRECTIONS,0,128
+2026-11-22,Villa Avocado Lembang - Search,Clicks to call,CONTACT,0,2
+2026-11-22,Villa Avocado Lembang - Search,Local actions - Other engagements,ENGAGEMENT,0,32
+2026-11-23,Villa Avocado Lembang - Search,Local actions - Directions,GET_DIRECTIONS,0,8
