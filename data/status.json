@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-11-25T05:28:22.668Z",
-  "today": "2026-11-24",
+  "exportedAt": "2026-11-26T05:28:20.879Z",
+  "today": "2026-11-25",
   "startDate": "2026-11-01",
   "recentDays": 7,
   "account": {
@@ -17,7 +17,6 @@
       "status": "ENABLED",
       "primaryStatus": "LIMITED",
       "primaryStatusReasons": [
-        "BIDDING_STRATEGY_LEARNING",
         "UNKNOWN"
       ],
       "channel": "SEARCH",
