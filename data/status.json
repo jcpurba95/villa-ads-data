@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-11-27T05:28:21.839Z",
-  "today": "2026-11-26",
+  "exportedAt": "2026-11-28T05:28:21.210Z",
+  "today": "2026-11-27",
   "startDate": "2026-11-01",
   "recentDays": 7,
   "account": {
@@ -21,7 +21,7 @@
       ],
       "channel": "SEARCH",
       "bidding": "TARGET_SPEND",
-      "dailyBudget": 5
+      "dailyBudget": 3
     }
   ],
   "errors": []
